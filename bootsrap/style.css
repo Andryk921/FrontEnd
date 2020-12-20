@@ -1,0 +1,27 @@
+.my-header {
+  background-color: rgb(139, 39, 39);
+  height: 56px;
+  width: 100%;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  position: fixed;
+  top: 0%;
+  z-index: 101;
+}
+
+.container2 {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.my-header-container {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1200px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.spatiu {
+  padding-top: 8px;
+} 
